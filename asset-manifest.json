@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mrsoft-test-task/static/css/main.98094482.chunk.css",
+    "main.js": "/mrsoft-test-task/static/js/main.b2fa6945.chunk.js",
+    "main.js.map": "/mrsoft-test-task/static/js/main.b2fa6945.chunk.js.map",
+    "runtime-main.js": "/mrsoft-test-task/static/js/runtime-main.d24aa00f.js",
+    "runtime-main.js.map": "/mrsoft-test-task/static/js/runtime-main.d24aa00f.js.map",
+    "static/js/2.fe6a40ac.chunk.js": "/mrsoft-test-task/static/js/2.fe6a40ac.chunk.js",
+    "static/js/2.fe6a40ac.chunk.js.map": "/mrsoft-test-task/static/js/2.fe6a40ac.chunk.js.map",
+    "index.html": "/mrsoft-test-task/index.html",
+    "precache-manifest.c19f74b5559796293467ba82929f3aea.js": "/mrsoft-test-task/precache-manifest.c19f74b5559796293467ba82929f3aea.js",
+    "service-worker.js": "/mrsoft-test-task/service-worker.js",
+    "static/css/main.98094482.chunk.css.map": "/mrsoft-test-task/static/css/main.98094482.chunk.css.map",
+    "static/js/2.fe6a40ac.chunk.js.LICENSE.txt": "/mrsoft-test-task/static/js/2.fe6a40ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d24aa00f.js",
+    "static/js/2.fe6a40ac.chunk.js",
+    "static/css/main.98094482.chunk.css",
+    "static/js/main.b2fa6945.chunk.js"
+  ]
+}
